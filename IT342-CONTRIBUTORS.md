@@ -1,4 +1,19 @@
 ## Contributors
 - Revilleza, Frederick (**@blissfuljuan**)
+<<<<<<< HEAD
 - Miel, Kaysean (**@CyberSinx**)
 
+=======
+- Pael, Neilross Ulysses (**@tetWantsToCode**)
+- Sepulveda, Kyle (**@Nagazta**)
+- Sumucad, Joseph Kyle (**@kylehatescodes**)
+- Abadiano, Kent Dominic (**@KapitanKent**)
+- Ygot, Dante (**@Dantogy**)
+- Cantiller, Christian Jayson (**@Shanta413**)
+- Diva, Justin (**@avid0101**)
+- Casas, Kursten Dane (**@kurstdane**)
+- Carao, Estelle Felicity (**@teruteriri**)
+- Abella, Franchesca Louise (**@ChescaAbella**)
+- Go, Felix Christian (**@Lumity-13**)
+- Lo, Joshua Noel (**juswangs12**)
+>>>>>>> main
