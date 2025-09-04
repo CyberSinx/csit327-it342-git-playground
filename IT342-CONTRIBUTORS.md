@@ -1,9 +1,12 @@
 ## Contributors
 - Revilleza, Frederick (**@blissfuljuan**)
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Miel, Kaysean (**@CyberSinx**)
 
 =======
+=======
+>>>>>>> main
 - Pael, Neilross Ulysses (**@tetWantsToCode**)
 - Sepulveda, Kyle (**@Nagazta**)
 - Sumucad, Joseph Kyle (**@kylehatescodes**)
@@ -16,4 +19,12 @@
 - Abella, Franchesca Louise (**@ChescaAbella**)
 - Go, Felix Christian (**@Lumity-13**)
 - Lo, Joshua Noel (**juswangs12**)
+<<<<<<< HEAD
+>>>>>>> main
+=======
+- Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
+- Jumawan, Clyde Nixon (**@klaydgg12**)
+- Caranzo, Mac Howard (**@Howardness**)
+- Tabungar, Steven Jan (**@Smuffinn**)
+- verano, joel (**@VeranoJoel**)
 >>>>>>> main
